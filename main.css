@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#Header ul li.active a{
+    background-color: rgb(61, 232, 112);
+    color: black;
+    padding: 4px;
+    border-radius: 8px;
+} 
